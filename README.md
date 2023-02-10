@@ -13,5 +13,7 @@ The entire workflow to generate this visibility layer is :
 4. Run the visibility_index.R code with these inputs
 5. Transform the output (points file) to a raster, using the "obs" column as value
 
+![output_map](https://github.com/NKulling/Visibility_index/blob/main/output_map.png)
+
 
 
